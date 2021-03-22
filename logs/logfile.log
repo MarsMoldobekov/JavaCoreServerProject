@@ -5,3 +5,18 @@ INFO  2021-03-20 19:30:49 [Thread-0] ru.geekbrains.chat.server.ChatServer (ChatS
 INFO  2021-03-20 19:30:53 [Thread-0] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - null
 INFO  2021-03-20 19:30:53 [Thread-0] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - null
 INFO  2021-03-20 19:30:53 [Thread-0] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - Client disconnected: TCPConnection: /0:0:0:0:0:0:0:1: 51698
+INFO  2021-03-22 18:25:32 [main] ru.geekbrains.chat.server.ChatServer (ChatServer.java:21) - Server running...
+INFO  2021-03-22 18:25:39 [Thread-0] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - Client connected: TCPConnection: /127.0.0.1: 51062
+INFO  2021-03-22 18:25:49 [Thread-0] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - Mars: Hi
+INFO  2021-03-22 18:30:59 [Thread-1] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - Client connected: TCPConnection: /127.0.0.1: 51100
+INFO  2021-03-22 18:31:19 [Thread-1] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - Ну, привет.
+INFO  2021-03-22 18:31:33 [Thread-0] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - Mars: Как жизнь?
+INFO  2021-03-22 18:31:44 [Thread-1] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - Вроде ок
+INFO  2021-03-22 18:32:14 [Thread-1] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - А сам как?
+INFO  2021-03-22 18:32:31 [Thread-0] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - Mars: Кайф
+INFO  2021-03-22 18:32:44 [Thread-1] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - Хорошо поговорили
+INFO  2021-03-22 18:32:50 [Thread-0] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - Mars: Ну, давай
+INFO  2021-03-22 18:32:52 [Thread-1] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - null
+INFO  2021-03-22 18:32:52 [Thread-1] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - null
+INFO  2021-03-22 18:32:52 [Thread-1] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - Client disconnected: TCPConnection: /127.0.0.1: 51100
+INFO  2021-03-22 18:32:55 [Thread-0] ru.geekbrains.chat.server.ChatServer (ChatServer.java:58) - Client disconnected: TCPConnection: /127.0.0.1: 51062
